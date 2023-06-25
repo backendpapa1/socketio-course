@@ -2,10 +2,5 @@
 
 ## Topics
 
-### TCP / UDP && Networking
+<a href='https://github.com/backendpapa1/socketio-course/blob/main/websockets/tcp-udp.md'>UDP / TCP Networking</a>
 
-### Networking 201
-
-### HTTP vs Websocket 
-
-### Project Websocket
